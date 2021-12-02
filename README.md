@@ -55,7 +55,7 @@ Für den Export in WebGL muss das Modul WebGL in Unity installiert sein.
 |-------------|--------------|------------|---------------------------------------------------------------------------------------|
 |             |       x       |            | Anlegen eines 2D Unityprojektes                                                       |
 |     x        |              |            | Screenindependent Design für 2D Einstellung des Canvas                                |
-|     x        |      x        |            | GameView Auflösung Einstellung                                                        |
+|     x        |              |            | GameView Auflösung Einstellung                                                        |
 |             |              |      x      | Verwendung und Manipulation von UI Elementen Text, Image                              |
 |             |      x        |            | Anordnung GameObjects in Hierarchy hat Auswirkung auf Anordnung der Elemente im Spiel |
 |             |      x       |            | Unity Editor Komponenten: Game View, Scene View, Hierarchy, Inspector, Project        |
@@ -67,4 +67,3 @@ Limitations
   1) Problem
   2) was ist das Problem
   
-Copyright by smeerws
